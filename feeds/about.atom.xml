@@ -1,6 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>mr2 photo album - About</title><link href="/" rel="alternate"></link><link href="/feeds/about.atom.xml" rel="self"></link><id>/</id><updated>2021-01-01T00:00:00+09:00</updated><entry><title>About</title><link href="/about.html" rel="alternate"></link><published>2021-01-01T00:00:00+09:00</published><updated>2021-01-01T00:00:00+09:00</updated><author><name>mr2</name></author><id>tag:None,2021-01-01:/about.html</id><summary type="html">&lt;p&gt;Name: mr2&lt;br&gt;
-Age: 24&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>mr2 photo album - About</title><link href="/" rel="alternate"></link><link href="/feeds/about.atom.xml" rel="self"></link><id>/</id><updated>2023-11-18T00:00:00+09:00</updated><entry><title>車の紹介</title><link href="/cars-description.html" rel="alternate"></link><published>2023-11-18T00:00:00+09:00</published><updated>2023-11-18T00:00:00+09:00</updated><author><name>mr2</name></author><id>tag:None,2023-11-18:/cars-description.html</id><summary type="html">&lt;p&gt;自己紹介ならぬ自車紹介です。&lt;/p&gt;
+&lt;h2&gt;2005 オペル アストラワゴン 2.0ターボスポーツ&lt;/h2&gt;
+&lt;p&gt;&lt;a href="/images/231118\001.jpg" target="_blank"&gt;&lt;img alt="" src="/images/231118\001.jpg"&gt;&lt;/a&gt;&lt;br&gt;
+&lt;center&gt;
+Canon EOS 7D Mark II + 
+17-50mm,&lt;br&gt;
+1/320s, 
+F3.2, 
+ISO100
+, 50.0mm&lt;br&gt;
+&lt;/center&gt;&lt;/p&gt;
+&lt;h3&gt;主なスペック&lt;/h3&gt;
+&lt;table width=100%&gt;
+    &lt;tr&gt;
+        &lt;th&gt;エンジン&lt;/th&gt;
+        &lt;td&gt;Z20LER …&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary><content type="html">&lt;p&gt;自己紹介ならぬ自車紹介です。&lt;/p&gt;
+&lt;h2&gt;2005 オペル アストラワゴン 2.0ターボスポーツ&lt;/h2&gt;
+&lt;p&gt;&lt;a href="/images/231118\001.jpg" target="_blank"&gt;&lt;img alt="" src="/images/231118\001.jpg"&gt;&lt;/a&gt;&lt;br&gt;
+&lt;center&gt;
+Canon EOS 7D Mark II + 
+17-50mm,&lt;br&gt;
+1/320s, 
+F3.2, 
+ISO100
+, 50.0mm&lt;br&gt;
+&lt;/center&gt;&lt;/p&gt;
+&lt;h3&gt;主なスペック&lt;/h3&gt;
+&lt;table width=100%&gt;
+    &lt;tr&gt;
+        &lt;th&gt;エンジン&lt;/th&gt;
+        &lt;td&gt;Z20LER 2.0Lターボエンジン&lt;br&gt;(200ps/26.7kgm)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;トランスミッション&lt;/th&gt;
+        &lt;td&gt;M32 6速MT (ゲトラグ製)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;駆動方式&lt;/th&gt;
+        &lt;td&gt;FF&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;車両重量&lt;/th&gt;
+        &lt;td&gt;1390kg&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;ボディカラー&lt;/th&gt;
+        &lt;td&gt;ブラックサファイア(20R)&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;搭載パーツ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;H&amp;amp;R Monotube Coilovers 車高調整式サスペンション&lt;/li&gt;
+&lt;li&gt;NEEZ MS7S 鍛造アルミホイール&lt;/li&gt;
+&lt;li&gt;IMPERIAL PERFORMANCE 吸気パイプキット&lt;/li&gt;
+&lt;li&gt;RECAEO SR-6 セミバケットシート&lt;/li&gt;
+&lt;li&gt;PIVOT OBM-2 OBD2モニタ&lt;/li&gt;
+&lt;li&gt;Vauxhall純正 アルミペダルカバー&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;サーキットのタイム&lt;/h3&gt;
+&lt;table width=100%&gt;
+    &lt;tr&gt;
+        &lt;th&gt;サーキット名&lt;/th&gt;
+        &lt;th&gt;タイム&lt;/th&gt;
+        &lt;th&gt;備考&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;オートランド作手&lt;/td&gt;
+        &lt;td&gt;33.709&lt;/td&gt;
+        &lt;td&gt;タイヤHANKOOK R-S4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;モーターランド三河&lt;/td&gt;
+        &lt;td&gt;53.769&lt;/td&gt;
+        &lt;td&gt;タイヤHANKOOK RS4&lt;br&gt;純正電子制御サスペンション&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;美浜サーキット&lt;/td&gt;
+        &lt;td&gt;50.874&lt;/td&gt;
+        &lt;td&gt;タイヤNANKANG CR-S&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;今シーズンはこの後本庄サーキットやスパ西浦モーターパーク，鈴鹿ツインサーキットを走行予定です。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;1997 オペル アストラワゴン コンフォートエディション（クラブ）&lt;/h2&gt;
+&lt;p&gt;&lt;a href="/images/231118\002.jpg" target="_blank"&gt;&lt;img alt="" src="/images/231118\002.jpg"&gt;&lt;/a&gt;&lt;br&gt;
+&lt;center&gt;
+Canon EOS 7D Mark II + 
+17-50mm,&lt;br&gt;
+1/60s, 
+F3.5, 
+ISO200
+, 35.0mm&lt;br&gt;
+&lt;/center&gt;&lt;/p&gt;
+&lt;h3&gt;主なスペック&lt;/h3&gt;
+&lt;table width=100%&gt;
+    &lt;tr&gt;
+        &lt;th&gt;エンジン&lt;/th&gt;
+        &lt;td&gt;X18XE 1.8L自然吸気エンジン&lt;br&gt;(115ps/17.3kgm)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;トランスミッション&lt;/th&gt;
+        &lt;td&gt;AF20 4速AT (アイシン製)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;駆動方式&lt;/th&gt;
+        &lt;td&gt;FF&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;車両重量&lt;/th&gt;
+        &lt;td&gt;1270kg&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;ボディカラー&lt;/th&gt;
+        &lt;td&gt;マグマレッド(547)&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;搭載パーツ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;SACHS Advantage ショックアブソーバー&lt;/li&gt;
+&lt;li&gt;Eibach PRO-KIT スプリング&lt;/li&gt;
+&lt;li&gt;BORBET Type CB アルミホイール&lt;/li&gt;
+&lt;li&gt;sparco ストラットタワーバー&lt;/li&gt;
+&lt;li&gt;brembo MAX グルーブドブレーキディスク&lt;/li&gt;
+&lt;li&gt;OPEL純正 オイルキャッチタンク&lt;/li&gt;
+&lt;li&gt;FOX リアマフラー&lt;/li&gt;
+&lt;li&gt;RECARO SR-2 セミバケットシート&lt;/li&gt;
+&lt;li&gt;VAN WEZEL サイドインジケーター(クリア)&lt;/li&gt;
+&lt;/ul&gt;</content><category term="About"></category><category term="車"></category></entry><entry><title>About</title><link href="/about.html" rel="alternate"></link><published>2021-01-01T00:00:00+09:00</published><updated>2021-01-01T00:00:00+09:00</updated><author><name>mr2</name></author><id>tag:None,2021-01-01:/about.html</id><summary type="html">&lt;p&gt;Name: mr2&lt;br&gt;
+Age: 25&lt;br&gt;
 Twitter: &lt;a href="https://twitter.com/mr2_astra"&gt;@mr2_astra&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;車や風景，航空機やレーシングカーの写真を撮影します。&lt;/p&gt;
 &lt;h2&gt;My equipments&lt;/h2&gt;
@@ -8,7 +138,7 @@ Twitter: &lt;a href="https://twitter.com/mr2_astra"&gt;@mr2_astra&lt;/a&gt;&lt;/
 &lt;li&gt;Canon EOS 7D Mark II&lt;/li&gt;
 &lt;li&gt;SIGMA 17-50mm F2.8 EX DC OS HSM&lt;/li&gt;
 &lt;li&gt;SIGMA 60-600mm F4.5-6.3 …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Name: mr2&lt;br&gt;
-Age: 24&lt;br&gt;
+Age: 25&lt;br&gt;
 Twitter: &lt;a href="https://twitter.com/mr2_astra"&gt;@mr2_astra&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;車や風景，航空機やレーシングカーの写真を撮影します。&lt;/p&gt;
 &lt;h2&gt;My equipments&lt;/h2&gt;
